@@ -1,5 +1,5 @@
 # ASCIIGame
-A small ascii adventure game written in python and ncurses. It takes only a couple minutes to complete. I created the game in about 3 days as part of a Programming 110 school assignment. I do not plan on continuing it any time in the near future, though I can list *many* ways it can be improved.
+A small ascii adventure game written in python and ncurses. It takes only a couple minutes to complete. I created the game in about 3 days as part of a school assignment. I do not plan on continuing it any time in the near future, though I can list *many* ways it can be improved.
 
 ![Color Quest](https://user-images.githubusercontent.com/5828713/129428760-0b1577fe-666c-4acb-81f2-49ba26c0c901.png)
 
